@@ -11,3 +11,4 @@ openpyxl
 pandasql
 sympy
 xgboost
+imblearn
